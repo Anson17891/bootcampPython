@@ -1,1 +1,2 @@
-# bootcampPython
+- chmon +x setup.sh
+- source setup.sh
